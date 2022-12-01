@@ -1,0 +1,11 @@
+﻿<flash_project name="~editor" version="1">
+	<project_file path="./~editor.fla" filetype="fla" profile="" def_file="true"/>
+	<project_file path="./Locale.as" filetype="as"/>
+	<project_file path="./Scene.as" filetype="as"/>
+	<project_file path="./Renderer.as" filetype="as"/>
+	<project_file path="./TextScaler.as" filetype="as"/>
+	<project_file path="./Timeline.as" filetype="as"/>
+	<project_file path="./Api.as" filetype="as"/>
+	<project_file path="./Movie.as" filetype="as"/>
+	<project_file path="./WordFilter.as" filetype="as"/>
+</flash_project>

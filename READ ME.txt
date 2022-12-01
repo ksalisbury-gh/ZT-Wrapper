@@ -1,0 +1,9 @@
+Go into assets folder and drag editor.swf into flashplayer_32_sa.exe.
+
+If you're using Mac, go into assets folder and drag editor.swf into flashplayer_32_sa.dmg.
+
+If you're using Linux, go into assets folder, extract flash_player_sa_linux.x86_64.tar.gz to same folder, and drag editor.swf into flashplayer.
+
+If you have any questions or concerns, be sure to message me on Discord. Imageny#1864
+
+Thank you, and enjoy! 
